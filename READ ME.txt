@@ -1,0 +1,21 @@
+=====================READ=ME=====================================
+
+
+
+to run this AI, you should always run it in venv :
+
+*in your terminal :
+
+cd ~/(path)/PROJECT007
+
+source venv/bin/activate
+
+python chatbot.py
+
+# To open the GUI :
+
+cd ~/(path)/PROJECT007
+
+source venv/bin/activate
+
+streamlit run app.py
